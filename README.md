@@ -1,5 +1,5 @@
-### Hi there 👋
-### 안녕하세요 성장하는 개발자 강민석입니다.👋
+### 뿌리 깊은 나무처럼 안정적인 서비스에 이바지하겠습니다!
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluekms)](https://hits.seeyoufarm.com)
 <!--
 **bluekms/bluekms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
